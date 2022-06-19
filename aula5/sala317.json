@@ -1,0 +1,33 @@
+{
+    "numero":317,
+    "cor":"amarela",
+    "temQuando":true,
+    "portaFechada":true,
+    "alunos":[
+        {
+            "cgu":"9999999999",
+            "nome":"Will Smith pancadão",
+            "contatos":[
+            {
+                "tipo":"celular",
+                "descricao":"55555555"
+            }]
+        },
+        {
+            "cgu":"2323232323",
+            "nome":"Estanislau Silva",
+            "contatos":[
+            {
+                "tipo":"celular",
+                "descricao":"343434343434"
+            },
+            {
+                "tipo":"email",
+                "descricao":"estani@gmail.com"
+            }]
+        }
+    ]
+}
+
+
+

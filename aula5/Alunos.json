@@ -1,0 +1,31 @@
+[
+    {
+        "cgu":"2323232323",
+        "nome":"Estanislau Silva",
+        "contatos":[
+            {
+                "tipo":"celular",
+                "descricao":"343434343434"
+            },
+            {
+                "tipo":"email",
+                "descricao":"estani@gmail.com"
+            }
+        ]
+    },
+    {
+        "cgu":"99999999445",
+        "nome":"Will Smith pancadão",
+        "contatos":[
+            {
+                "tipo":"celular",
+                "descricao":"55555555"
+            }
+        ]
+    },
+    {
+        "cgu":"9989899",
+        "nome":"Cris",
+        "Fone":"09888888888"
+    }
+]

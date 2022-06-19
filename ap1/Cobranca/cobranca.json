@@ -1,0 +1,21 @@
+{
+    "id":1,
+    "valor":100.23,
+    "boleto":[
+        {
+            "id":1,
+            "emissao":"03/01/2022",
+            "validade":"20/12/2022",
+            "valor":100.23
+        }
+    ],
+    "cliente":[
+        {
+            "id":1,
+            "nome":"leo",
+            "endereco": "rua josélindos",
+            "cpf":"486.484.895-87",
+            "rg":984568874
+        }
+    ]
+}

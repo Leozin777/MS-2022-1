@@ -1,0 +1,16 @@
+{
+    "numero":326,
+    "cor":"amarela cinza",
+    "temQuando":false,
+    "portaFechada":false,
+    "alunos":[
+        {
+            "cgu":"9989899",
+            "nome":"Cris",
+            "Fone":"09888888888"
+        }
+    ]
+}
+
+
+

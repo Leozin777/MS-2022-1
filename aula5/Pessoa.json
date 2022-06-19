@@ -1,0 +1,27 @@
+[
+    {
+        "id":222,
+        "nome":"Silva"
+    },
+    {
+        "id":333,
+        "nome":"Joice",
+            "chefe":{
+                "id":222,
+                "nome":"Silva",
+                "chefe":{
+                    "id":555,
+                    "nome":"Antonio"
+                }
+            }
+    },
+    {
+        "id":444,
+        "nome":"Aline"
+    },
+    {
+        "id":555,
+        "nome":"Antonio"
+    }
+
+]

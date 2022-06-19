@@ -1,0 +1,30 @@
+{
+    "id": 1,
+    "nome": "ADS",
+    "descricao":"curso de Analise e desenvolvimento de sistemas",
+    "turno": "Noturno",
+    "duracao": 30,
+    "Turma":[
+        {
+            "id":1,
+            "Aluno":[
+                {
+                    "id":1,
+                    "nome": "leo",
+                    "idade": 20,
+                    "endereco": "Rua josélindo",
+                    "dataDeNascimento": "28/08/2001",
+                    "cpf":"049-851-782-58",
+                    "rg":8648641684,
+                    "Matricula":[
+                        {
+                            "id": 1,
+                            "situacaoAluno": true,
+                            "dataMatricula": "05-01-2020"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "Id": "1",
+    "Nome": "Leo",
+    "DataNascimento":"28-01-2001",
+    "Cpf": "898897513",
+    "Email": "leo@ulbra.com",
+    "NumTelefone": "489486484",
+    "CartaoDeCredito": {
+        "Id": "1",
+        "Nome": "Leo",
+        N
+    }
+}

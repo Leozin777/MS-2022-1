@@ -1,0 +1,15 @@
+<sala317>
+    <numero>34343</numero>
+    <cor>asdfad </cor>
+    <temPorta>false</temPorta>
+    <alunos>
+        <aluno>
+            <codigo>34343</codigo>
+            <nome>Cassio</nome>
+        </aluno>
+         <aluno>
+            <codigo>33554</codigo>
+            <nome>Frank</nome>
+        </aluno>
+    </alunos>
+</sala317>
