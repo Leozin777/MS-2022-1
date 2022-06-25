@@ -5,11 +5,13 @@ using System.Threading.Tasks;
 
 namespace Solid
 {
-    public interface IBaseRepository<t>
+
+    // ISP - Crie interfaces refinadas que sejam específicas do cliente
+
+    public interface IContrato<t>
     where t:class
     {
-        void Save(t T);
-        t GetById(int id);
-        List<t> GetAll();
+        t Contrata();
+        
     }
 }

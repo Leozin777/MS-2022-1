@@ -5,17 +5,17 @@ using System.Threading.Tasks;
 
 namespace Solid
 {
-    public class Cliente
+    public abstract class Pessoa
     {
-        public Cliente(int id, string nome, string cpf)
+        //SRP - Classe Pessoa tem somente uma responsabilidade que é passar os atributos e o construtor para as classes filhas
+        protected Pessoa(int id, string nome)
         {
             Id = id;
             Nome = nome;
-            Cpf = cpf;
         }
-        
+
         public int Id { get; set; } 
         public string Nome { get; set; }
-        public string Cpf { get; set; }
     }
 }
+
